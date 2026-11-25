@@ -1,0 +1,86 @@
+solid synthetic_sloped_stock
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex -15 0 0
+      vertex -15 20 0
+      vertex 15 20 0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex -15 0 0
+      vertex 15 20 0
+      vertex 15 0 0
+    endloop
+  endfacet
+  facet normal 0.0 1.0 0.0
+    outer loop
+      vertex -15 20 0
+      vertex -15 20 24
+      vertex 15 20 24
+    endloop
+  endfacet
+  facet normal 0.0 1.0 0.0
+    outer loop
+      vertex -15 20 0
+      vertex 15 20 24
+      vertex 15 20 0
+    endloop
+  endfacet
+  facet normal 0.0 -0.19611613513818404 0.9805806756909201
+    outer loop
+      vertex -15 20 24
+      vertex -15 0 20
+      vertex 15 0 20
+    endloop
+  endfacet
+  facet normal 0.0 -0.19611613513818404 0.9805806756909201
+    outer loop
+      vertex -15 20 24
+      vertex 15 0 20
+      vertex 15 20 24
+    endloop
+  endfacet
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex -15 0 20
+      vertex -15 0 0
+      vertex 15 0 0
+    endloop
+  endfacet
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex -15 0 20
+      vertex 15 0 0
+      vertex 15 0 20
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex -15 20 24
+      vertex -15 20 0
+      vertex -15 0 0
+    endloop
+  endfacet
+  facet normal 1.0 0.0 0.0
+    outer loop
+      vertex 15 0 0
+      vertex 15 20 0
+      vertex 15 20 24
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex -15 0 20
+      vertex -15 20 24
+      vertex -15 0 0
+    endloop
+  endfacet
+  facet normal 1.0 0.0 0.0
+    outer loop
+      vertex 15 0 0
+      vertex 15 20 24
+      vertex 15 0 20
+    endloop
+  endfacet
+endsolid synthetic_sloped_stock
